@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python
   - jupyterlab
   - pandas
-  - sklearn
+  - scikit-learn
   - keras
   - matplotlib
   - voila
