@@ -1,4 +1,11 @@
+name: c964
 channels:
-    - conda-forge
+  - conda-forge
+  - defaults
 dependencies:
-    - appmode
+  - jupyterlab
+  - pandas
+  - sklearn
+  - keras
+  - matplotlib
+  - voila
